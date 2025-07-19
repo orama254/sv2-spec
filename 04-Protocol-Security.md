@@ -311,7 +311,7 @@ EllSwift encoded server_public_key can be decoded to its 32 byte x-coordinate.
 
 #### 4.5.3.1 Signature structure
 
-Schnorr signature with _key prefixing_ is used<sup>[3](#reference-3)</sup>
+Schnorr signature with _key prefixing_ is used<sup><a href="#reference-3">[3]</a></sup>
 
 signature is constructed for
 
@@ -417,18 +417,18 @@ prefixed_base58check = "9bXiEd8boQVhq7WddEcERUL5tyyJVFYdU8th3HfbNXK3Yw6GRXh"
 
 ## 4.8 References
 
-1. <a id="reference-1"> </a> https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf
+1. <a id="reference-1" href="https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf" target="_blank" rel="noopener noreferrer">https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf</a>
 
-2. <a id="reference-2" href="https://www.secg.org/sec2-v2.pdf"> https://www.secg.org/sec2-v2.pdf</a>
+2. <a id="reference-2" href="https://www.secg.org/sec2-v2.pdf">https://www.secg.org/sec2-v2.pdf</a>
 
-3. <a id="reference-3" href="https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki"> https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki</a>
+3. <a id="reference-3" href="https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki">https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki</a>
 
-4. <a id="reference-4" href="https://tools.ietf.org/html/rfc8439"> https://tools.ietf.org/html/rfc8439</a>
+4. <a id="reference-4" href="https://tools.ietf.org/html/rfc8439">https://tools.ietf.org/html/rfc8439</a>
 
-5. <a id="reference-5" href="https://www.ietf.org/rfc/rfc2104.txt"> https://www.ietf.org/rfc/rfc2104.txt</a>
+5. <a id="reference-5" href="https://www.ietf.org/rfc/rfc2104.txt">https://www.ietf.org/rfc/rfc2104.txt</a>
 
-6. <a id="reference-6" href="https://tools.ietf.org/html/rfc5869"> https://tools.ietf.org/html/rfc5869</a>
+6. <a id="reference-6" href="https://tools.ietf.org/html/rfc5869">https://tools.ietf.org/html/rfc5869</a>
 
-7. <a id="reference-7" href="https://github.com/bitcoin/bips/blob/master/bip-0324.mediawiki"> https://github.com/bitcoin/bips/blob/master/bip-0324.mediawiki</a>
+7. <a id="reference-7" href="https://github.com/bitcoin/bips/blob/master/bip-0324.mediawiki">https://github.com/bitcoin/bips/blob/master/bip-0324.mediawiki</a>
 
 ```
