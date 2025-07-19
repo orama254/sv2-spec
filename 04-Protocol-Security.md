@@ -417,7 +417,7 @@ prefixed_base58check = "9bXiEd8boQVhq7WddEcERUL5tyyJVFYdU8th3HfbNXK3Yw6GRXh"
 
 ## 4.8 References
 
-1. <a id="reference-1" href="https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf"> https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf</a>
+1. <a id="reference-1"> </a> https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf
 
 2. <a id="reference-2" href="https://www.secg.org/sec2-v2.pdf"> https://www.secg.org/sec2-v2.pdf</a>
 
