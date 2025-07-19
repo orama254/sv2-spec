@@ -311,7 +311,7 @@ EllSwift encoded server_public_key can be decoded to its 32 byte x-coordinate.
 
 #### 4.5.3.1 Signature structure
 
-Schnorr signature with _key prefixing_ is used<sup><a href="#reference-3">[3]</a></sup>
+Schnorr signature with _key prefixing_ is used<sup>[3](#reference-3)</sup>
 
 signature is constructed for
 
@@ -417,13 +417,10 @@ prefixed_base58check = "9bXiEd8boQVhq7WddEcERUL5tyyJVFYdU8th3HfbNXK3Yw6GRXh"
 
 ## 4.8 References
 
-1. [https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf](https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf){#reference-1 target="_blank" rel="noopener noreferrer"}
-
-2. [https://www.secg.org/sec2-v2.pdf](https://www.secg.org/sec2-v2.pdf){#reference-2 target="_blank" rel="noopener noreferrer"}
-
-3. [https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki){#reference-3 target="_blank" rel="noopener noreferrer"}
-
-4. [https://tools.ietf.org/html/rfc8439](https://tools.ietf.org/html/rfc8439){#reference-4 target="_blank" rel="noopener noreferrer"}
+1. <a id="reference-1"> https://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf</a>
+2. <a id="reference-2"> https://www.secg.org/sec2-v2.pdf</a>
+3. <a id="reference-3"> https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki</a>
+4. <a id="reference-4"> https://tools.ietf.org/html/rfc8439</a>
 
 5. <a id="reference-5" href="https://www.ietf.org/rfc/rfc2104.txt">https://www.ietf.org/rfc/rfc2104.txt</a>
 
